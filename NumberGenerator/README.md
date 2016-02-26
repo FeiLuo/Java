@@ -11,3 +11,4 @@ Demo Link: [使用Maven创建Java项目](http://www.yiibai.com/maven/create-a-java-pro
 4. coding, enjoy :) ...
 5. mvn package
 6. java -cp target/NumberGenerator-1.0-SNAPSHOT.jar com.yiibai.App
+
